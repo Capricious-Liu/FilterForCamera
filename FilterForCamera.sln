@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F701CAF0-A2A4-521F-A4EE-98042EBEBF70}") = "FilterForCamera", "Assembly-CSharp.csproj", "{C6C38889-E552-AC86-7867-7F82BA96279F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C38889-E552-AC86-7867-7F82BA96279F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C38889-E552-AC86-7867-7F82BA96279F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C38889-E552-AC86-7867-7F82BA96279F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C38889-E552-AC86-7867-7F82BA96279F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
