@@ -1,5 +1,4 @@
 # FilterForCamera
-<hr>
 #### 实现滤镜效果：
 
 1. 下载后用Unity打开
@@ -32,5 +31,4 @@
 
 
 
-![Image text]
-(https://raw.githubusercontent.com/Capricious-Liu/FilterForCamera/master/hint.png)
+![Image text](https://raw.githubusercontent.com/Capricious-Liu/FilterForCamera/master/hint.png)
